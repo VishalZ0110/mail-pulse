@@ -1,0 +1,6 @@
+__pycache__
+.env
+chrome_session/
+env_email/
+state.json
+session/

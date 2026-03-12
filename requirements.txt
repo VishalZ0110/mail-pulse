@@ -1,0 +1,7 @@
+imapclient
+pyzmail36
+requests
+python-dotenv
+selenium
+webdriver-manager
+google-genai
