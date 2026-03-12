@@ -5,6 +5,7 @@ MailPulse is a personal automation agent that monitors your Gmail inbox, uses Go
 It classifies every email as **spam/phishing** or **legitimate**, and for legitimate emails it extracts the subject, key points, relevant links, and any action items. Summaries are formatted with WhatsApp bold markdown so they're easy to read on your phone.
 
 PS: Email to Whatsapp notification tool to summarise your emails and flag potential spams.
+
 ---
 
 ## How It Works
